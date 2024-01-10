@@ -1,2 +1,10 @@
-# tubes-aplikasi-barang-bekas
-Tubes Aplikasi Barang Bekas - Mata Kuliah Pemrograman Berorientasi Objek - Kelompok 5
+# TUBES KELOMPOK 5 - PBO
+Tema : Aplikasi Barang Bekas
+Netbeans : Apache Netbeans 17
+Database : MySQL
+
+Terdapat beberapa update dari file yang diperesentasikan sebelumnya.
+- perbaikan pengurangan stok barang ketika barang sudah di checkout
+- perbaikan bug pada toko ketika melakukan update, delete barang
+- perbaikan konfirmasi setelah checkout, user dapat memilih akan kembali belanja atau keluar dari aplikasi
+- perbaikan kode pada beberapa method, dan penambahan method (untuk update stok barang)
